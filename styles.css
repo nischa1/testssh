@@ -1,0 +1,11 @@
+body{
+    margin: none;
+    padding: none;
+    color: white;
+    font-family: fantasy;
+}
+
+h1{
+    color: red;
+    background-color: wheat;
+}
